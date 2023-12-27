@@ -10,4 +10,5 @@
 | :------ | -------------------: |
 | 3       |       Main diagonal: |
 | 5 -3 10 |               5 8 -4 |
-| 7 9 -4  | Negative numbers = 2 |
+| 15 8 2  | Negative numbers = 2 |
+| 7 9 -4  |                    ' |
